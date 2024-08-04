@@ -11,7 +11,6 @@
     --fonte1: font-family: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: "Passion One", sans-serif;
     --fonte3: 'Sirin Stencil' , sans-serif;
-    --fonte4: "Passion Conflict" , cursive;
 '
 }
 *{
@@ -49,7 +48,7 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: var(--fonte4);
+    font-family: var(--fonte1);
 }
 section>p{
     padding-bottom: 2em;

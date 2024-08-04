@@ -64,6 +64,7 @@ section.img{
     color: white;
     box-shadow: inset 12px 12px 13px 0px rgba(0, 0, 0, 0.42);
     background-attachment: fixed;
+    margin: auto;
 }
 section.img > p{
 width: 400px;
